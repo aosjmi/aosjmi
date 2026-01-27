@@ -1,1 +1,1 @@
-Bought a computer, still don't own it
+> Rustはいいね。Rustはメモリ安全性を保証してくれる。リリンの生み出した文化の極みだよ。僕はコンパイルするために生まれてきたのかもしれないね。うまく所有権を管理する必要はないよ。ただ書きたいコードを書けばいい。borrow checkerで詰まったことはborrow checkerで解決してしまえばいい
