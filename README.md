@@ -18,7 +18,7 @@ Lately, I've been using Scheme, Haskell, Agda, and Rust for practice, and next I
 
 ## ⅴ
 The vague, adolescent appeal of access-ism ultimately boils down to DIY when you consider who's actually hosting the site.
-What matters isn't mastering it, but simply being DIY—nothing more, nothing less (I like DIY, but I don't want to be a hacker 😂).
+What matters isn't mastering it, but simply being DIY—nothing more, nothing less (I like DIY, but I don't want to be a hacker lol).
 
 ## ⅵ
 i love libre.
