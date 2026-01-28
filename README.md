@@ -20,6 +20,6 @@ Lately, I've been using Scheme, Haskell, Agda, and Rust for practice, and next I
 The vague, adolescent appeal of access-ism ultimately boils down to DIY when you consider who's actually hosting the site. What matters isn't mastering it, but simply being DIY(I like DIY, but I don't want to be a hacker lol). And yet, there's nothing more foolish than complaining about a service that others are hosting.
 
 ## ⅵ
-i love libre.
+I love libre.
 - [If Buying Isn’t Owning, Then Piracy Isn’t Stealing](https://wehelpcode.com/articles/if-buying-isnt-owning-then-piracy-isnt-stealing-a-modern-digital-dilemma/)
 - [![Image from Gyazo](https://i.gyazo.com/48638cdc9608c122cdad861042bc30d0.gif)](https://gyazo.com/48638cdc9608c122cdad861042bc30d0)
