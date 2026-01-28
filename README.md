@@ -17,8 +17,7 @@ If I had to choose, I'd say I like languages where data modeling is (truly) expl
 Lately, I've been using Scheme, Haskell, Agda, and Rust for practice, and next I plan to dive into C and assembly.
 
 ## ⅴ
-The vague, adolescent appeal of access-ism ultimately boils down to DIY when you consider who's actually hosting the site.
-What matters isn't mastering it, but simply being DIY—nothing more, nothing less (I like DIY, but I don't want to be a hacker lol).
+The vague, adolescent appeal of access-ism ultimately boils down to DIY when you consider who's actually hosting the site. What matters isn't mastering it, but simply being DIY(I like DIY, but I don't want to be a hacker lol). And yet, there's nothing more foolish than complaining about a service someone else is hosting. 
 
 ## ⅵ
 i love libre.
