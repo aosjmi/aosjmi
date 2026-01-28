@@ -1,5 +1,7 @@
 ⅰ
-> I bought a computer, but don't own it.
+
+- 俺の計算機で何を計算するかは俺が決める。
+  - I bought a computer, but don't own it.
 
 ⅱ
 [![Image from Gyazo](https://i.gyazo.com/e9a3b5c690bf5d0d17258b67155e05e6.jpg)](https://gyazo.com/e9a3b5c690bf5d0d17258b67155e05e6)
@@ -7,3 +9,7 @@
 
 ⅲ
 [![Image from Gyazo](https://i.gyazo.com/fdc18073054df41d1fcb7c3a11c71124.jpg)](https://gyazo.com/fdc18073054df41d1fcb7c3a11c71124)
+
+ⅳ
+
+- Github is normal SNS.
