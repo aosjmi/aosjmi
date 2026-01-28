@@ -1,7 +1,7 @@
 ⅰ
 
 - 俺の計算機で何を計算するかは俺が決める。
-  - I bought a computer, but don't own it.
+  - I bought a computer, but don't own it……😭
 
 ⅱ
 [![Image from Gyazo](https://i.gyazo.com/e9a3b5c690bf5d0d17258b67155e05e6.jpg)](https://gyazo.com/e9a3b5c690bf5d0d17258b67155e05e6)
