@@ -9,3 +9,9 @@
 ## ⅲ
 [![Image from Gyazo](https://i.gyazo.com/fdc18073054df41d1fcb7c3a11c71124.jpg)](https://gyazo.com/fdc18073054df41d1fcb7c3a11c71124)
 
+## ⅳ
+I don't have a particular programming language I prefer.
+
+If I had to choose, I'd say I like languages where data modeling is (truly) explicit, syntax is consistent, and they embrace minimalism (e.g., Scheme).
+
+Lately, I've been using Scheme, Haskell, Agda, and Rust for practice, and next I plan to dive into C and assembly.
