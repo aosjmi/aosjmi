@@ -15,3 +15,10 @@ I don't have a particular programming language I prefer.
 If I had to choose, I'd say I like languages where data modeling is (truly) explicit, syntax is consistent, and they embrace minimalism (e.g., Scheme).
 
 Lately, I've been using Scheme, Haskell, Agda, and Rust for practice, and next I plan to dive into C and assembly.
+
+## ⅴ
+The vague adolescent access-ism and archival thinking shared online ultimately boils down to hacker thinking when it comes to who hosts the site.
+What matters isn't mastering it, but simply being DIY—nothing more, nothing less (I like DIY, but I don't want to be a hacker 😂).
+
+## ⅵ
+i love libre.
