@@ -22,4 +22,4 @@ What matters isn't mastering it, but simply being DIY—nothing more, nothing le
 
 ## ⅵ
 i love libre.
-[](https://wehelpcode.com/articles/if-buying-isnt-owning-then-piracy-isnt-stealing-a-modern-digital-dilemma/)
+- [If Buying Isn’t Owning, Then Piracy Isn’t Stealing](https://wehelpcode.com/articles/if-buying-isnt-owning-then-piracy-isnt-stealing-a-modern-digital-dilemma/)
