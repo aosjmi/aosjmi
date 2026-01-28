@@ -22,4 +22,4 @@ The vague, adolescent appeal of access-ism ultimately boils down to DIY when you
 ## ⅵ
 i love libre.
 - [If Buying Isn’t Owning, Then Piracy Isn’t Stealing](https://wehelpcode.com/articles/if-buying-isnt-owning-then-piracy-isnt-stealing-a-modern-digital-dilemma/)
-- [![Image from Gyazo](https://i.gyazo.com/6c6a32756d232c5a4c8fbc9dea235eaf.gif)](https://gyazo.com/6c6a32756d232c5a4c8fbc9dea235eaf)
+- [![Image from Gyazo](https://i.gyazo.com/48638cdc9608c122cdad861042bc30d0.gif)](https://gyazo.com/48638cdc9608c122cdad861042bc30d0)
