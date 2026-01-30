@@ -12,7 +12,7 @@
 ## ⅳ
 I don't have a particular programming language I prefer.
 
-If I had to choose, I'd say I like languages where data modeling is (truly) explicit, syntax is consistent, and they embrace minimalism (e.g., Scheme).
+If I had to choose, I'd say I like languages where data modeling is (truly) explicit, syntax is consistent, and minimalism (e.g., Scheme).
 
 Lately, I've been using Scheme, Haskell, Agda, and Rust for practice, and next I plan to dive into C and assembly.
 
