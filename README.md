@@ -16,8 +16,3 @@ Lately, I've been using Scheme, Haskell, Agda, and Rust for practice, and next I
 ## ⅴ
 I'm a big fan of FOSS.
 - Note that the freedom in FOSS is libre, not gratis.
-
-## ⅵ
-- [If Buying Isn’t Owning, Then Piracy Isn’t Stealing](https://wehelpcode.com/articles/if-buying-isnt-owning-then-piracy-isnt-stealing-a-modern-digital-dilemma/)
-- [![Image from Gyazo](https://i.gyazo.com/48638cdc9608c122cdad861042bc30d0.gif)](https://gyazo.com/48638cdc9608c122cdad861042bc30d0)
-
